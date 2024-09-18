@@ -3,8 +3,8 @@
 🎓 Desenvolvedor de software com foco em **backend**, atualmente explorando o universo de **Java** e programação orientada a objetos. 
 
 ### 💻 Projetos principais:
-- **[Agenda POO](#)** - Um sistema de agenda com POO em Java, que permite adicionar contatos com nome, número e e-mail.
-- **[Sistema Bancário Java](#)** - Simulação de contas bancárias em Java, com classes abstratas e implementação de transferências entre contas.
+- **[Agenda POO](https://github.com/Vini-Guedesz/Agenda-POO-Java)** - Um sistema de agenda com POO em Java, que permite adicionar contatos com nome, número e e-mail.
+- **[Sistema Bancário Java](https://github.com/Vini-Guedesz/Banco-POO)** - Simulação de contas bancárias em Java, com classes abstratas e implementação de transferências entre contas.
 
 
 ## 🛠️ Tecnologias que domino:
@@ -32,7 +32,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 ---
 
 ## 🔗 Vamos nos conectar:
-- **LinkedIn**: [https://www.linkedin.com/in/viniguedesz/](#https://www.linkedin.com/in/viniguedesz/)
+- **LinkedIn**: [https://www.linkedin.com/in/viniguedesz/](https://www.linkedin.com/in/viniguedesz/)
 - **Email**: [marcosviniciosguedesdossantos@gmail.com](mailto:marcosviniciosguedesdossantos@gmail.com)
 
 ---
