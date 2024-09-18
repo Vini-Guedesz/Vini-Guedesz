@@ -32,7 +32,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 ---
 
 ## 🔗 Vamos nos conectar:
-- **LinkedIn**: [https://www.linkedin.com/in/viniguedesz/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/viniguedesz/](#https://www.linkedin.com/in/viniguedesz/)
 - **Email**: [marcosviniciosguedesdossantos@gmail.com](mailto:marcosviniciosguedesdossantos@gmail.com)
 
 ---
