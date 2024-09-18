@@ -1,4 +1,4 @@
-# Olá, eu sou [Vinicius Guedes]! 👋
+# Olá, eu sou Vinicius Guedes! 👋
 
 🎓 Desenvolvedor de software com foco em **backend**, atualmente explorando o universo de **Java** e programação orientada a objetos. 
 
