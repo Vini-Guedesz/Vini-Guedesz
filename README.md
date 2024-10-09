@@ -28,7 +28,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 - **Clean Code**.
 - **Estrutura de Dados**.
 - **Banco De Dados SQL**.
-- **funções lambda**.
+- **Funções Lambda**.
 ---
 
 ## 🔗 Vamos nos conectar:
