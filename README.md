@@ -3,7 +3,8 @@
 🎓 Desenvolvedor de software com foco em **backend**, atualmente explorando o universo de **Java** e programação orientada a objetos. 
 
 ### 💻 Projetos principais:
-- **[Localiza ai](https://github.com/Vini-Guedesz/Agenda-POO-Java)** - Um sistema de agenda com POO em Java, que permite adicionar contatos com nome, número e e-mail.
+
+- **[Localizei]([https://github.com/Vini-Guedesz/localizei])** - Atualmente estou desenvolvendo um SaaS que faz gerenciamento de várias encomendas de vários meios de entrega em um lugar só. 
 
 ## 🛠️ Tecnologias que domino:
 
@@ -28,4 +29,4 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 
 ---
 
-*“A jornada para a excelência é contínua. Cada desafio é uma oportunidade para crescer!”*
+*“Nenhuma quantia de dinheiro jamais comprou um segundo de tempo!”*
