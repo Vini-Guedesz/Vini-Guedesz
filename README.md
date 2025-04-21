@@ -4,7 +4,7 @@
 
 ### 💻 Projetos principais:
 
-- **[Localizei](https://github.com/Vini-Guedesz/localizei)** - Atualmente estou desenvolvendo um SaaS que faz gerenciamento de várias encomendas de vários meios de entrega em um lugar só. 
+- **[Localizei](https://github.com/Vini-Guedesz/localizei)** - Atualmente estou desenvolvendo um SaaS que faz gerenciamento de rastreio de várias encomendas de vários meios de entrega em um lugar só. 
 
 ## 🛠️ Tecnologias que domino:
 
