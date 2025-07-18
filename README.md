@@ -4,7 +4,7 @@
 
 ### 💻 Projetos principais:
 
-- **[Localizei](https://github.com/Vini-Guedesz/localizei)** - Atualmente estou desenvolvendo um SaaS que faz gerenciamento de rastreio de várias encomendas de vários meios de entrega em um lugar só. 
+- **[Localizei](https://github.com/Vini-Guedesz/localizei)** - API de Ferramentas de Suporte Técnico de Rede. Este projeto fornece endpoints para realizar diagnósticos de rede comuns, como consulta de domínios, geolocalização de IPs e traceroute.
 
 ## 🛠️ Tecnologias que domino:
 
