@@ -14,15 +14,6 @@
 
 ---
 
-## 📈 O que estou explorando agora:
-
-Atualmente, estou focado em aprimorar minhas habilidades em:
-- **Streams**.
-- **Programação Assíncrona**.
-- **Testes Unitários**.
-- **Rede de Cumputadores**.
----
-
 ## 🔗 Vamos nos conectar:
 - **LinkedIn**: [https://www.linkedin.com/in/viniguedesz/](https://www.linkedin.com/in/viniguedesz/)
 - **Email**: [marcosviniciosguedesdossantos@gmail.com](mailto:marcosviniciosguedesdossantos@gmail.com)
