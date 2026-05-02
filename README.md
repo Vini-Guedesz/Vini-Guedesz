@@ -1,34 +1,34 @@
-# Vinicius Guedes
+# Ola, eu sou Vinicius Guedes
 
-Backend Developer focused on building reliable APIs, clean architecture and practical fullstack products.
+Desenvolvedor de software com foco em backend, APIs REST e produtos fullstack com arquitetura limpa.
 
-## 👨‍💻 About Me
+## Sobre mim
 
-- Focus: Java + Spring ecosystem
-- Interests: API design, business rules, data modeling and product-driven development
-- Goal: deliver software that is simple to maintain and safe to evolve
+- Foco atual: Java + ecossistema Spring
+- Interesses: arquitetura de APIs, regras de negocio e modelagem de dados
+- Objetivo: entregar software simples de manter, seguro para evoluir e util para o negocio
 
-## 🚀 Featured Projects
+## Projetos em destaque
 
-- [Portifolio Pessoal](https://github.com/Vini-Guedesz/portifolio) - Public portfolio + admin panel with JWT auth and CRUD modules.
-- [TIIA Suporte](https://github.com/Vini-Guedesz/tiia-suporte) - Network diagnostics API with SSE streams and operations dashboard.
-- [Gestor de Compras](https://github.com/Vini-Guedesz/gestor-compras) - Fullstack purchasing management platform.
-- [Instagram Reels Radar](https://github.com/Vini-Guedesz/instagram-reels-radar) - Reels analytics tool for marketing decisions.
+- [Portifolio Pessoal](https://github.com/Vini-Guedesz/portifolio) - Area publica + painel admin com JWT e CRUD completo.
+- [TIIA Suporte](https://github.com/Vini-Guedesz/tiia-suporte) - API de diagnostico de rede com SSE e painel operacional.
+- [Gestor de Compras](https://github.com/Vini-Guedesz/gestor-compras) - Plataforma fullstack para fluxo de compras e cotacoes.
+- [Instagram Reels Radar](https://github.com/Vini-Guedesz/instagram-reels-radar) - Ferramenta de analise de Reels para apoio a decisoes de marketing.
 
-## 🧰 Main Stack
+## Stack principal
 
 - Java, Spring Boot, Spring Security
 - PostgreSQL, Flyway
 - Docker, GitHub Actions
-- React / TypeScript / Vue (project dependent)
+- React / TypeScript / Vue (dependendo do projeto)
 
-## 📌 Current Focus
+## Em andamento
 
-- Strengthening backend architecture patterns
-- Expanding automated tests
-- Improving observability and deployment workflows
+- Fortalecer padroes de arquitetura backend
+- Expandir cobertura de testes automatizados
+- Evoluir observabilidade e fluxo de deploy
 
-## 📫 Contact
+## Contato
 
 - LinkedIn: [linkedin.com/in/viniguedesz](https://www.linkedin.com/in/viniguedesz/)
 - Email: [marcosviniciosguedesdossantos@gmail.com](mailto:marcosviniciosguedesdossantos@gmail.com)
