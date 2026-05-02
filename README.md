@@ -1,23 +1,38 @@
-# Olá, eu sou Vinicius Guedes! 👋
+# Vinicius Guedes
 
-🎓 Desenvolvedor de software com foco em **backend**, atualmente explorando o universo de **Java** e programação orientada a objetos. 
+Perfil profissional com os principais projetos, stack e canais de contato.
 
-### 💻 Projetos principais:
+## Status
 
-- **[TIIA Suporte](https://github.com/Vini-Guedesz/tiia-suporte)** - API de Ferramentas de Suporte Técnico de Rede. Este projeto fornece endpoints para realizar diagnósticos de rede comuns, como consulta de domínios, geolocalização de IPs e traceroute.
+- Ativo
+- Foco atual: backend com Java e arquitetura de APIs
 
-## 🛠️ Tecnologias que domino:
+## Stack principal
 
-- **Linguagens**: Java
-- **Ferramentas**: Git, GitHub, Zabbix, Docker, Linux
-- **Práticas**: POO, Controle de Versão, SOLID
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Git e GitHub
 
----
+## Projetos em destaque
 
-## 🔗 Vamos nos conectar:
-- **LinkedIn**: [https://www.linkedin.com/in/viniguedesz/](https://www.linkedin.com/in/viniguedesz/)
-- **Email**: [marcosviniciosguedesdossantos@gmail.com](mailto:marcosviniciosguedesdossantos@gmail.com)
+- [Portifolio Pessoal](https://github.com/Vini-Guedesz/portifolio)
+- [TIIA Suporte](https://github.com/Vini-Guedesz/tiia-suporte)
+- [Gestor de Compras](https://github.com/Vini-Guedesz/gestor-compras)
+- [Instagram Reels Radar](https://github.com/Vini-Guedesz/instagram-reels-radar)
 
----
+## Como usar este repositorio
 
-*“Nenhuma quantia de dinheiro jamais comprou um segundo de tempo!”*
+Este repositorio e o README de perfil do GitHub (especial). Sempre que voce quiser atualizar sua apresentacao publica, altere este arquivo.
+
+## Roadmap
+
+- Consolidar padrao unico de documentacao entre todos os repositorios
+- Expandir os projetos com testes e observabilidade
+- Publicar versoes de demonstracao online
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/viniguedesz](https://www.linkedin.com/in/viniguedesz/)
+- Email: [marcosviniciosguedesdossantos@gmail.com](mailto:marcosviniciosguedesdossantos@gmail.com)
